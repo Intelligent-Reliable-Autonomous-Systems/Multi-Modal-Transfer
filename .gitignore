@@ -2,3 +2,6 @@
 *.weather_data/
 _trained_models/
 _data/
+*__pycache__/
+*.png
+*.DS_Store
