@@ -1,3 +1,4 @@
 *.pt
 *.weather_data/
 _trained_models/
+_data/

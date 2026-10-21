@@ -15,8 +15,7 @@ Correspondance to Will Solow, soloww@oregonstate.edu
 
 3. Install dependencies with pip
 * `pip install -e model_engine`
-* `pip install 
-` 
+* `pip install -e mm_transfer` 
 
 ### Running experiments
 1. See available data in _data/
